@@ -1,2 +1,0 @@
-lerobot
-so101_hw_interface

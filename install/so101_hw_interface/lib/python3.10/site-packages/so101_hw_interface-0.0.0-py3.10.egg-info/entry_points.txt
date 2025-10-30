@@ -1,5 +1,0 @@
-[console_scripts]
-so101_calibrate = so101_hw_interface.calibrate_arm:main
-so101_motor_bridge = so101_hw_interface.motor_bridge:main
-so101_read_steps = so101_hw_interface.read_motor_steps:main
-

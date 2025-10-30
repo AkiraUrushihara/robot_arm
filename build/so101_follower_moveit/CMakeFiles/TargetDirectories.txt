@@ -1,9 +1,0 @@
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/uninstall.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/so101_follower_moveit_uninstall.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/test.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/edit_cache.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/rebuild_cache.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/list_install_components.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/install.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/install/local.dir
-/home/robostep/robot_arm/build/so101_follower_moveit/CMakeFiles/install/strip.dir
