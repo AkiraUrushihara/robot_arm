@@ -10,8 +10,6 @@
 ## 使い方(テレオペ)
 1. PS4コントローラーの接続:
 ```bash
-cd robot_arm/Lerobot_ros2
-source install/setup.bash
 ros2 run joy joy_node
 ```
 2. 実機との接続(ロボットアームが初期位置に移動するので注意)
