@@ -1,0 +1,1 @@
+/home/robostep/robot_arm/build/so101_follower_moveit/ament_cmake_environment_hooks/local_setup.bash

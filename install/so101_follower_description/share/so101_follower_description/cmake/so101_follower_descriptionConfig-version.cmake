@@ -1,0 +1,1 @@
+/home/robostep/robot_arm/build/so101_follower_description/ament_cmake_core/so101_follower_descriptionConfig-version.cmake

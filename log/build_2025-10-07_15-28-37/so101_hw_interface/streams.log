@@ -1,0 +1,109 @@
+[0.930s] Invoking command in '/home/robostep/robot_arm/Lerobot_ros2/src/so101_hw_interface': PYTHONPATH=/home/robostep/robot_arm/build/so101_hw_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/so101_hw_interface build --build-base /home/robostep/robot_arm/build/so101_hw_interface/build install --record /home/robostep/robot_arm/build/so101_hw_interface/install.log --single-version-externally-managed install_data
+[1.269s] running egg_info
+[1.270s] creating ../../../build/so101_hw_interface/so101_hw_interface.egg-info
+[1.270s] writing ../../../build/so101_hw_interface/so101_hw_interface.egg-info/PKG-INFO
+[1.271s] writing dependency_links to ../../../build/so101_hw_interface/so101_hw_interface.egg-info/dependency_links.txt
+[1.271s] writing entry points to ../../../build/so101_hw_interface/so101_hw_interface.egg-info/entry_points.txt
+[1.271s] writing requirements to ../../../build/so101_hw_interface/so101_hw_interface.egg-info/requires.txt
+[1.271s] writing top-level names to ../../../build/so101_hw_interface/so101_hw_interface.egg-info/top_level.txt
+[1.272s] writing manifest file '../../../build/so101_hw_interface/so101_hw_interface.egg-info/SOURCES.txt'
+[1.275s] reading manifest file '../../../build/so101_hw_interface/so101_hw_interface.egg-info/SOURCES.txt'
+[1.276s] writing manifest file '../../../build/so101_hw_interface/so101_hw_interface.egg-info/SOURCES.txt'
+[1.276s] running build
+[1.276s] running build_py
+[1.276s] creating /home/robostep/robot_arm/build/so101_hw_interface/build
+[1.276s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib
+[1.276s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface
+[1.277s] copying so101_hw_interface/__init__.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface
+[1.277s] copying so101_hw_interface/so101_system_interface.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface
+[1.277s] copying so101_hw_interface/motor_bridge.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface
+[1.277s] copying so101_hw_interface/calibrate_arm.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface
+[1.277s] copying so101_hw_interface/read_motor_steps.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface
+[1.277s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot
+[1.278s] copying lerobot/__init__.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot
+[1.278s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors
+[1.278s] copying so101_hw_interface/motors/__init__.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors
+[1.278s] copying so101_hw_interface/motors/motors_bus.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors
+[1.278s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech
+[1.278s] copying so101_hw_interface/motors/feetech/__init__.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech
+[1.278s] copying so101_hw_interface/motors/feetech/tables.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech
+[1.279s] copying so101_hw_interface/motors/feetech/feetech.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech
+[1.279s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common
+[1.279s] copying lerobot/common/__init__.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common
+[1.279s] copying lerobot/common/errors.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common
+[1.279s] creating /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils
+[1.279s] copying lerobot/common/utils/__init__.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils
+[1.279s] copying lerobot/common/utils/utils.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils
+[1.280s] copying lerobot/common/utils/encoding_utils.py -> /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils
+[1.280s] running install
+[1.281s] running install_lib
+[1.282s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface
+[1.282s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors
+[1.282s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/__init__.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors
+[1.282s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech
+[1.282s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech/__init__.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech
+[1.282s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech/tables.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech
+[1.283s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/feetech/feetech.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech
+[1.283s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motors/motors_bus.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors
+[1.283s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/__init__.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface
+[1.283s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/so101_system_interface.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface
+[1.283s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/motor_bridge.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface
+[1.283s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/calibrate_arm.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface
+[1.284s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/so101_hw_interface/read_motor_steps.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface
+[1.284s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot
+[1.284s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common
+[1.284s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/__init__.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common
+[1.284s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/errors.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common
+[1.284s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils
+[1.284s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils/__init__.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils
+[1.284s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils/utils.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils
+[1.285s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/common/utils/encoding_utils.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils
+[1.285s] copying /home/robostep/robot_arm/build/so101_hw_interface/build/lib/lerobot/__init__.py -> /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot
+[1.285s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/__init__.py to __init__.cpython-310.pyc
+[1.285s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech/__init__.py to __init__.cpython-310.pyc
+[1.285s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech/tables.py to tables.cpython-310.pyc
+[1.286s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/feetech/feetech.py to feetech.cpython-310.pyc
+[1.290s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motors/motors_bus.py to motors_bus.cpython-310.pyc
+[1.297s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/__init__.py to __init__.cpython-310.pyc
+[1.298s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/so101_system_interface.py to so101_system_interface.cpython-310.pyc
+[1.298s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/motor_bridge.py to motor_bridge.cpython-310.pyc
+[1.300s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/calibrate_arm.py to calibrate_arm.cpython-310.pyc
+[1.301s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface/read_motor_steps.py to read_motor_steps.cpython-310.pyc
+[1.301s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/__init__.py to __init__.cpython-310.pyc
+[1.302s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/errors.py to errors.cpython-310.pyc
+[1.302s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils/__init__.py to __init__.cpython-310.pyc
+[1.302s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils/utils.py to utils.cpython-310.pyc
+[1.302s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/common/utils/encoding_utils.py to encoding_utils.cpython-310.pyc
+[1.302s] byte-compiling /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/lerobot/__init__.py to __init__.cpython-310.pyc
+[1.303s] running install_data
+[1.303s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index
+[1.303s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index
+[1.303s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index/packages
+[1.303s] copying resource/so101_hw_interface -> /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index/packages
+[1.304s] copying package.xml -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface
+[1.304s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/launch
+[1.304s] copying launch/so101_hw.launch.py -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/launch
+[1.304s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/config
+[1.304s] copying config/so101_calibration copy.yaml -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/config
+[1.305s] copying config/so101_controllers.yaml -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/config
+[1.305s] copying config/so101_calibration.yaml -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/config
+[1.305s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/urdf
+[1.305s] copying urdf/so101_follower.urdf -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/urdf
+[1.305s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/resource
+[1.305s] copying resource/so101_hw_interface.xml -> /home/robostep/robot_arm/install/so101_hw_interface/share/so101_hw_interface/resource
+[1.305s] creating /home/robostep/robot_arm/install/so101_hw_interface/lib/so101_hw_interface
+[1.306s] copying scripts/so101_motor_bridge -> /home/robostep/robot_arm/install/so101_hw_interface/lib/so101_hw_interface
+[1.306s] copying scripts/so101_calibrate -> /home/robostep/robot_arm/install/so101_hw_interface/lib/so101_hw_interface
+[1.306s] copying scripts/so101_read_steps -> /home/robostep/robot_arm/install/so101_hw_interface/lib/so101_hw_interface
+[1.306s] creating /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index/executables
+[1.306s] copying resource/so101_motor_bridge -> /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index/executables
+[1.306s] copying resource/so101_calibrate -> /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index/executables
+[1.306s] copying resource/so101_read_steps -> /home/robostep/robot_arm/install/so101_hw_interface/share/ament_index/resource_index/executables
+[1.306s] running install_egg_info
+[1.307s] Copying ../../../build/so101_hw_interface/so101_hw_interface.egg-info to /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101_hw_interface-0.0.0-py3.10.egg-info
+[1.308s] running install_scripts
+[1.336s] Installing so101_calibrate script to /home/robostep/robot_arm/install/so101_hw_interface/bin
+[1.336s] Installing so101_motor_bridge script to /home/robostep/robot_arm/install/so101_hw_interface/bin
+[1.336s] Installing so101_read_steps script to /home/robostep/robot_arm/install/so101_hw_interface/bin
+[1.337s] writing list of installed files to '/home/robostep/robot_arm/build/so101_hw_interface/install.log'
+[1.367s] Invoked command in '/home/robostep/robot_arm/Lerobot_ros2/src/so101_hw_interface' returned '0': PYTHONPATH=/home/robostep/robot_arm/build/so101_hw_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/so101_hw_interface build --build-base /home/robostep/robot_arm/build/so101_hw_interface/build install --record /home/robostep/robot_arm/build/so101_hw_interface/install.log --single-version-externally-managed install_data

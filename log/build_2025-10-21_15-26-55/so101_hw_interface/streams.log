@@ -1,0 +1,19 @@
+[0.900s] Invoking command in '/home/robostep/robot_arm/build/so101_hw_interface': PYTHONPATH=/home/robostep/robot_arm/build/so101_hw_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robostep/robot_arm/build/so101_hw_interface/build --no-deps symlink_data
+[1.309s] running develop
+[1.620s] running egg_info
+[1.621s] writing so101_hw_interface.egg-info/PKG-INFO
+[1.621s] writing dependency_links to so101_hw_interface.egg-info/dependency_links.txt
+[1.621s] writing entry points to so101_hw_interface.egg-info/entry_points.txt
+[1.621s] writing requirements to so101_hw_interface.egg-info/requires.txt
+[1.622s] writing top-level names to so101_hw_interface.egg-info/top_level.txt
+[1.626s] reading manifest file 'so101_hw_interface.egg-info/SOURCES.txt'
+[1.627s] writing manifest file 'so101_hw_interface.egg-info/SOURCES.txt'
+[1.629s] running build_ext
+[1.629s] Creating /home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages/so101-hw-interface.egg-link (link to .)
+[1.631s] Installing so101_calibrate script to /home/robostep/robot_arm/install/so101_hw_interface/bin
+[1.631s] Installing so101_motor_bridge script to /home/robostep/robot_arm/install/so101_hw_interface/bin
+[1.631s] Installing so101_read_steps script to /home/robostep/robot_arm/install/so101_hw_interface/bin
+[1.632s] 
+[1.632s] Installed /home/robostep/robot_arm/build/so101_hw_interface
+[1.632s] running symlink_data
+[1.676s] Invoked command in '/home/robostep/robot_arm/build/so101_hw_interface' returned '0': PYTHONPATH=/home/robostep/robot_arm/build/so101_hw_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robostep/robot_arm/install/so101_hw_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robostep/robot_arm/build/so101_hw_interface/build --no-deps symlink_data

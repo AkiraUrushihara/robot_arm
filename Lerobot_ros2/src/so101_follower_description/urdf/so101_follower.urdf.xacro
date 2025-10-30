@@ -332,7 +332,7 @@
     <child link="jaw_link"/>
     <axis xyz="0 0 1"/>
     <!-- calibrated limits: raw(2047,3489) home(2768) = (-1.110,+1.109) rad -->
-    <limit effort="10" velocity="10" lower="-0.174533" upper="1.74533"/>
+    <limit effort="10" velocity="10" lower="-0.6" upper="1.74533"/>
   </joint>
 
   <transmission name="gripper_trans">

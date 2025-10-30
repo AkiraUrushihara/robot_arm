@@ -1,0 +1,60 @@
+[0.008s] Invoking command in '/home/robostep/robot_arm/build/so101_follower_moveit': AMENT_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:/opt/ros/iron /usr/bin/cmake /home/robostep/robot_arm/Lerobot_ros2/src/so101_follower_moveit -DCMAKE_INSTALL_PREFIX=/home/robostep/robot_arm/install/so101_follower_moveit
+[0.069s] -- The C compiler identification is GNU 11.4.0
+[0.141s] -- The CXX compiler identification is GNU 11.4.0
+[0.149s] -- Detecting C compiler ABI info
+[0.231s] -- Detecting C compiler ABI info - done
+[0.241s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.242s] -- Detecting C compile features
+[0.242s] -- Detecting C compile features - done
+[0.246s] -- Detecting CXX compiler ABI info
+[0.339s] -- Detecting CXX compiler ABI info - done
+[0.348s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.348s] -- Detecting CXX compile features
+[0.349s] -- Detecting CXX compile features - done
+[0.352s] -- Found ament_cmake: 2.0.7 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.536s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.700s] -- Configuring done
+[0.703s] -- Generating done
+[0.729s] -- Build files have been written to: /home/robostep/robot_arm/build/so101_follower_moveit
+[0.733s] Invoked command in '/home/robostep/robot_arm/build/so101_follower_moveit' returned '0': AMENT_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:/opt/ros/iron /usr/bin/cmake /home/robostep/robot_arm/Lerobot_ros2/src/so101_follower_moveit -DCMAKE_INSTALL_PREFIX=/home/robostep/robot_arm/install/so101_follower_moveit
+[0.735s] Invoking command in '/home/robostep/robot_arm/build/so101_follower_moveit': AMENT_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:/opt/ros/iron /usr/bin/cmake --build /home/robostep/robot_arm/build/so101_follower_moveit -- -j8 -l8
+[0.786s] Invoked command in '/home/robostep/robot_arm/build/so101_follower_moveit' returned '0': AMENT_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:/opt/ros/iron /usr/bin/cmake --build /home/robostep/robot_arm/build/so101_follower_moveit -- -j8 -l8
+[0.787s] Invoking command in '/home/robostep/robot_arm/build/so101_follower_moveit': AMENT_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:/opt/ros/iron /usr/bin/cmake --install /home/robostep/robot_arm/build/so101_follower_moveit
+[0.798s] -- Install configuration: ""
+[0.798s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/ament_index/resource_index/package_run_dependencies/so101_follower_moveit
+[0.799s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/ament_index/resource_index/parent_prefix_path/so101_follower_moveit
+[0.799s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/environment/ament_prefix_path.sh
+[0.800s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/environment/ament_prefix_path.dsv
+[0.800s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/environment/path.sh
+[0.800s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/environment/path.dsv
+[0.800s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/local_setup.bash
+[0.800s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/local_setup.sh
+[0.801s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/local_setup.zsh
+[0.811s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/local_setup.dsv
+[0.812s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/package.dsv
+[0.812s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/ament_index/resource_index/packages/so101_follower_moveit
+[0.812s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/cmake/so101_follower_moveitConfig.cmake
+[0.812s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/cmake/so101_follower_moveitConfig-version.cmake
+[0.813s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/package.xml
+[0.813s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch
+[0.813s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/moveit_rviz.launch.py
+[0.813s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/demo.launch.py
+[0.813s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/spawn_controllers.launch.py
+[0.813s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/setup_assistant.launch.py
+[0.814s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/move_group.launch.py
+[0.814s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/static_virtual_joint_tfs.launch.py
+[0.814s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/rsp.launch.py
+[0.814s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/launch/warehouse_db.launch.py
+[0.814s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config
+[0.814s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/joint_limits.yaml
+[0.815s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/moveit_controllers.yaml
+[0.815s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/so101_follower.srdf
+[0.815s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/so101_follower.urdf.xacro
+[0.815s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/ros2_controllers.yaml
+[0.815s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/moveit.rviz
+[0.815s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/kinematics.yaml
+[0.816s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/initial_positions.yaml
+[0.816s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/so101_follower.ros2_control.xacro
+[0.816s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/config/pilz_cartesian_limits.yaml
+[0.816s] -- Installing: /home/robostep/robot_arm/install/so101_follower_moveit/share/so101_follower_moveit/.setup_assistant
+[0.819s] Invoked command in '/home/robostep/robot_arm/build/so101_follower_moveit' returned '0': AMENT_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robostep/robot_arm/install/so101_follower_description:/opt/ros/iron /usr/bin/cmake --install /home/robostep/robot_arm/build/so101_follower_moveit
