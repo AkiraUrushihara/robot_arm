@@ -14,18 +14,18 @@ ros2 run joy joy_node
 ```
 2. 実機との接続(ロボットアームが初期位置に移動するので注意)
 ```bash
-cd robot_arm
+cd ~/robot_arm
 source install/setup.bash
 ros2 run so101_hw_interface so101_motor_bridge
 ```
 3. rvizによる可視化
 ```bash
-cd robot_arm
+cd ~/robot_arm
 source install/setup.bash
 ros2 launch so101_follower_description display.launch.py     use_gui:=false     joint_states_topic:=/so101_follower/joint_states
 ```
 4. コントロールノードの起動
 ```bash
-cd robot_arm/Lerobot_ros2/src/so101_hw_interface/controll/
+cd ~/robot_arm/Lerobot_ros2/src/so101_hw_interface/controll/
 python3 controller.py
 ```
